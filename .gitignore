@@ -1,0 +1,14 @@
+/node_modules/
+/dist/
+/.git/
+/app/libs/
+/app/sass/
+/app/ht.access
+package.json
+gulpfile.json
+.bowerrc
+gulpfile.js
+/**/_backstage
+/**/package-lock.json
+/**/Thumbs.db
+/**/*.DS_Store
